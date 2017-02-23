@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ponder Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://iponder.top/"/>
+  <updated>2017-02-23T05:58:57.196Z</updated>
+  <id>http://iponder.top/</id>
+  
+  <author>
+    <name>Ponder</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重回Hexo</title>
+    <link href="http://iponder.top/2017/02/22/%E9%87%8D%E5%9B%9EHexo/"/>
+    <id>http://iponder.top/2017/02/22/重回Hexo/</id>
+    <published>2017-02-22T09:47:26.000Z</published>
+    <updated>2017-02-23T05:58:57.196Z</updated>
+    
+    <content type="html"><![CDATA[<p>年年岁岁花相似,岁岁年年人不同。<br><a id="more"></a><br>转眼间,从第一次听说Hexo到现在就过去了近一年。那时候就只知道Hexo里好看的主题就那么几个,我用过的也就只有Next和jacman,但是用得最久的就是jacman了,后来我还将jacman修改过一次,做了一个类似豆瓣读书那样,本来是想写一些读后感的,谁知道却没做多久域名就到期了,然后书也没怎么读了,那时候就天天找工作,也没啥人看得上我.现在好了,又回到和去年的时候,又要重新找工作,但也重新开始认真的要写这个博客了.不能再像去年那样了,而且现在还有好多的事要做.正好列一个Todo,一个一个的来。慢慢学,而且也可以将每一次学的过程写一篇博客。两全其完。 (:</p>
+<h4 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h4><ul>
+<li>[ ] 改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率</li>
+<li>[x] 新增 Todo 列表功能</li>
+<li>[x] 修复 LaTex 公式渲染问题</li>
+<li>[x] 新增 LaTex 公式编号功能</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;年年岁岁花相似,岁岁年年人不同。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo,Theme-material" scheme="http://iponder.top/tags/Hexo-Theme-material/"/>
+    
+  </entry>
+  
+</feed>
