@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://iponder.top/"/>
-  <updated>2017-02-23T06:31:21.360Z</updated>
+  <updated>2017-02-25T05:09:46.000Z</updated>
   <id>http://iponder.top/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://iponder.top/2017/02/22/%E9%87%8D%E5%9B%9EHexo/"/>
     <id>http://iponder.top/2017/02/22/重回Hexo/</id>
     <published>2017-02-22T09:47:26.000Z</published>
-    <updated>2017-02-23T06:31:21.360Z</updated>
+    <updated>2017-02-25T05:09:46.000Z</updated>
     
     <content type="html"><![CDATA[<p>年年岁岁花相似,岁岁年年人不同。<br><a id="more"></a><br>转眼间,从第一次听说Hexo到现在就过去了近一年。那时候就只知道Hexo里好看的主题就那么几个,我用过的也就只有Next和jacman,但是用得最久的就是jacman了,后来我还将jacman修改过一次,做了一个类似豆瓣读书那样,本来是想写一些读后感的,谁知道却没做多久域名就到期了,然后书也没怎么读了,那时候就天天找工作,也没啥人看得上我.现在好了,又回到和去年的时候,又要重新找工作,但也重新开始认真的要写这个博客了.不能再像去年那样了,而且现在还有好多的事要做.正好列一个Todo,一个一个的来。慢慢学,而且也可以将每一次学的过程写一篇博客。两全其美。 (:</p>
 <p>妹的,搞了半天原来Hexo现在还不支持Todo,不管了,先以Todo的样式写吧</p>
@@ -39,7 +39,9 @@
     </summary>
     
     
-      <category term="Hexo,Theme-material" scheme="http://iponder.top/tags/Hexo-Theme-material/"/>
+      <category term="Hexo" scheme="http://iponder.top/tags/Hexo/"/>
+    
+      <category term="Theme-material" scheme="http://iponder.top/tags/Theme-material/"/>
     
   </entry>
   
