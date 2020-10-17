@@ -4,26 +4,376 @@
   
     
     <entry>
-      <title><![CDATA[重回Hexo]]></title>
-      <url>http://iponder.top/2017/02/22/%E9%87%8D%E5%9B%9EHexo/</url>
-      <content type="html"><![CDATA[<p>年年岁岁花相似,岁岁年年人不同。<br><a id="more"></a><br>转眼间,从第一次听说Hexo到现在就过去了近一年。那时候就只知道Hexo里好看的主题就那么几个,我用过的也就只有Next和jacman,但是用得最久的就是jacman了,后来我还将jacman修改过一次,做了一个类似豆瓣读书那样,本来是想写一些读后感的,谁知道却没做多久域名就到期了,然后书也没怎么读了,那时候就天天找工作,也没啥人看得上我.现在好了,又回到和去年的时候,又要重新找工作,但也重新开始认真的要写这个博客了.不能再像去年那样了,而且现在还有好多的事要做.正好列一个Todo,一个一个的来。慢慢学,而且也可以将每一次学的过程写一篇博客。两全其美。 (:</p>
-<p>妹的,搞了半天原来Hexo现在还不支持Todo,不管了,先以Todo的样式写吧</p>
-<ul>
-<li>[x] 搭建Hexo博客</li>
-<li>[ ] 将网站改为SSL</li>
-<li>[ ] 添加留言</li>
-<li>[ ] </li>
-</ul>
+      <title></title>
+      <url>http://iponder.top/2020/10/17/%E5%AF%BC%E8%88%AA/</url>
+      <content type="html"><![CDATA[<h1 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h1><ol>
+<li><blockquote>
+<p><a href="https://wht.im" target="_blank" rel="noopener">https://wht.im</a>,<br>简介: 导航, 无广告, 简洁  </p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://adzhp.cn" target="_blank" rel="noopener">https://adzhp.cn</a><br>简介: 导航, 无广告, 导航多  </p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://adzhp.cn/mian-fei-shi-pin.html" target="_blank" rel="noopener">https://adzhp.cn/mian-fei-shi-pin.html</a><br>简介: 无广告, 电视导航  </p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://ilxdh.com" target="_blank" rel="noopener">http://ilxdh.com</a><br>简介: 无广告, 简洁  </p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://orxing.top/nav/" target="_blank" rel="noopener">https://orxing.top/nav/</a><br>简介: 无广告 </p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://muabl.cn" target="_blank" rel="noopener">https://muabl.cn</a><br>简介: 无广告, 简洁</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://guozhivip.com" target="_blank" rel="noopener">http://guozhivip.com</a><br>简介: 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://nav.dig77.com" target="_blank" rel="noopener">https://nav.dig77.com</a><br>简介: 导航</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.24kdh.com" target="_blank" rel="noopener">https://www.24kdh.com</a><br>简介: 导航</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.bidianer.com" target="_blank" rel="noopener">https://www.bidianer.com</a><br>简介: 导航</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.seeseed.com" target="_blank" rel="noopener">https://www.seeseed.com</a><br>简介: 导航</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://jubt.cf/cn/index.html" target="_blank" rel="noopener">https://jubt.cf/cn/index.html</a><br>简介: 导航, 简洁</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://爱看电影.xyz" target="_blank" rel="noopener">https://爱看电影.xyz</a><br>简介: 电视导航, 无广告</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="动漫"><a href="#动漫" class="headerlink" title="动漫"></a>动漫</h1><ol>
+<li><blockquote>
+<p><a href="https://ebb.io" target="_blank" rel="noopener">https://ebb.io</a><br>简介: 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://m.imomoe.ai" target="_blank" rel="noopener">http://m.imomoe.ai</a><br>简介: 速度快, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.nicotv.me" target="_blank" rel="noopener">http://www.nicotv.me</a><br>简介: 速度快, 有广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.zzzfun.com" target="_blank" rel="noopener">http://www.zzzfun.com</a><br>简介: 无广告, 速度快</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h1><ol>
+<li><blockquote>
+<p><a href="https://www.cupfox.com" target="_blank" rel="noopener">https://www.cupfox.com</a><br>简介: 搜索, 使用第三方观看</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.mvcat.com" target="_blank" rel="noopener">http://www.mvcat.com</a><br>简介: 搜索, 使用第三方</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="电视"><a href="#电视" class="headerlink" title="电视"></a>电视</h1><ol>
+<li><blockquote>
+<p><a href="https://www.rijutv.com" target="_blank" rel="noopener">https://www.rijutv.com</a><br>简介: 无广告, 速度快</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://v.nn69.top" target="_blank" rel="noopener">https://v.nn69.top</a><br>简介: 无广告, 速度快</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.hanjutv.com" target="_blank" rel="noopener">https://www.hanjutv.com</a><br>简介: 有广告, 速度快</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.wanmeikk.me" target="_blank" rel="noopener">https://www.wanmeikk.me</a><br>简介: 无广告, 速度快</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.5aikp.com" target="_blank" rel="noopener">http://www.5aikp.com</a><br>简介: 速度快, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.9rmb.com" target="_blank" rel="noopener">http://www.9rmb.com</a><br>简介: 速度快, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.tv5box.com" target="_blank" rel="noopener">http://www.tv5box.com</a><br>简介: 有广告, 速度快</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.kuhuiv.com" target="_blank" rel="noopener">https://www.kuhuiv.com</a><br>简介: 速度快, 无广告, 多线路</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://bde4.com" target="_blank" rel="noopener">https://bde4.com</a><br>简介: 有广告, 速度快, 多线路</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.wandouys.com" target="_blank" rel="noopener">https://www.wandouys.com</a><br>简介: 速度慢,无广告,</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://91mjw.com" target="_blank" rel="noopener">https://91mjw.com</a><br>简介: 磁力下载,不可以在线看</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.56dy.com" target="_blank" rel="noopener">http://www.56dy.com</a><br>简介: 有广告, 在线看, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.dingzi77.com" target="_blank" rel="noopener">http://www.dingzi77.com</a><br>简介: 无广告, 速度可以, 在线看</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.ljmovie.com" target="_blank" rel="noopener">https://www.ljmovie.com</a><br>简介: 速度慢, 不可以在线看, 迅雷下载</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.putaoys.com" target="_blank" rel="noopener">https://www.putaoys.com</a><br>简介: 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.ttkmj.tv" target="_blank" rel="noopener">http://www.ttkmj.tv</a><br>简介: 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.juji.tv" target="_blank" rel="noopener">https://www.juji.tv</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.qingniao.me" target="_blank" rel="noopener">https://www.qingniao.me</a><br>简介: 有广告, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.ysuzy.com" target="_blank" rel="noopener">https://www.ysuzy.com</a><br>简介: 无广告,速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.nfmovies.com" target="_blank" rel="noopener">https://www.nfmovies.com</a><br>简介: 有广告, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.pianku.tv" target="_blank" rel="noopener">https://www.pianku.tv</a><br>简介: 有广告,可以下载, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.languang.co" target="_blank" rel="noopener">http://www.languang.co</a><br>简介: 仅磁力下载</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://gimy.tv" target="_blank" rel="noopener">https://gimy.tv</a><br>简介: 速度慢,无广告,成人栏</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.adcmove.com" target="_blank" rel="noopener">https://www.adcmove.com</a><br>简介: 多线路, 无广告, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.pianba.tv" target="_blank" rel="noopener">https://www.pianba.tv</a><br>简介: 无广告, 多线路, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.952780.com" target="_blank" rel="noopener">http://www.952780.com</a><br>简介: 无广告, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.kankanwu.com/index.html" target="_blank" rel="noopener">https://www.kankanwu.com/index.html</a><br>简介: 有广告, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://v.jlszyy.cc" target="_blank" rel="noopener">https://v.jlszyy.cc</a><br>简介: 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.tcmove.com" target="_blank" rel="noopener">https://www.tcmove.com</a><br>简介: 无广告, 多线路, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.wandouys.com" target="_blank" rel="noopener">https://www.wandouys.com</a><br>简介: 速度慢, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.pangzitv.com" target="_blank" rel="noopener">https://www.pangzitv.com</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.xiangkanju.cc" target="_blank" rel="noopener">https://www.xiangkanju.cc</a><br>简介: 需要登录</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.lanmays.com" target="_blank" rel="noopener">https://www.lanmays.com</a><br>简介: 多线路, 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.qpvod.com" target="_blank" rel="noopener">https://www.qpvod.com</a><br>简介: 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.dililitv.com" target="_blank" rel="noopener">http://www.dililitv.com</a><br>简介: 速度慢, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.yunbtv.com" target="_blank" rel="noopener">https://www.yunbtv.com</a><br>简介: 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://hdmys.com" target="_blank" rel="noopener">http://hdmys.com</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.kk2w2.com" target="_blank" rel="noopener">http://www.kk2w2.com</a><br>简介: 速度慢, 有广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.yyetss.com" target="_blank" rel="noopener">https://www.yyetss.com</a><br>简介: 美剧, 有广告, 广告少, 速度慢, 多线路</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://53ys.cc" target="_blank" rel="noopener">https://53ys.cc</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.pianba.tv" target="_blank" rel="noopener">http://www.pianba.tv</a><br>简介: 无广告, 速度一般, 多线路</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.dadatutu.cc" target="_blank" rel="noopener">https://www.dadatutu.cc</a><br>简介: 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.btmao.cc" target="_blank" rel="noopener">https://www.btmao.cc</a><br>简介: 速度慢, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.paojiaoys.com" target="_blank" rel="noopener">http://www.paojiaoys.com</a><br>简介: 无广告, 多线路, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://hua20.cn" target="_blank" rel="noopener">http://hua20.cn</a><br>简介: 有广告, 速度一般, 多线路, 调用第三方</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.cmdy2020.com" target="_blank" rel="noopener">https://www.cmdy2020.com</a><br>简介: 有广告, 多线路, 速度可以</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.77kpp.com" target="_blank" rel="noopener">https://www.77kpp.com</a><br>简介: 有广告, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.22tu.tv" target="_blank" rel="noopener">http://www.22tu.tv</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.kankanwu.com/index.html" target="_blank" rel="noopener">https://www.kankanwu.com/index.html</a><br>简介: 有广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.kkkkwu.cc/index.html" target="_blank" rel="noopener">http://www.kkkkwu.cc/index.html</a><br>简介: 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.suanzao.tv" target="_blank" rel="noopener">https://www.suanzao.tv</a><br>简介: 手机版, 速度慢, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.suanzao.tv" target="_blank" rel="noopener">https://www.suanzao.tv</a><br>简介: 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.wandouys.com" target="_blank" rel="noopener">https://www.wandouys.com</a><br>简介: 无广告, 速度慢, 多线路</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="http://www.haitudy.com" target="_blank" rel="noopener">http://www.haitudy.com</a><br>简介: 多线路, 无广告, 速度一般</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.bttwo.com" target="_blank" rel="noopener">https://www.bttwo.com</a><br>简介: 在线观看, 下载, 支付宝赞助, 无广告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.66s.cc" target="_blank" rel="noopener">https://www.66s.cc</a><br>简介: 多线路, 无广告, 速度慢</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p><a href="https://www.duboku.co" target="_blank" rel="noopener">https://www.duboku.co</a><br>简介: 无广告, 多线路, 速度慢</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="投屏"><a href="#投屏" class="headerlink" title="投屏"></a>投屏</h1><ol>
+<li><blockquote>
+<p><a href="http://www.kutouping.com/" target="_blank" rel="noopener">http://www.kutouping.com/</a><br>简介: 投屏软件</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="有趣网址"><a href="#有趣网址" class="headerlink" title="有趣网址"></a>有趣网址</h1><ol>
+<li><blockquote>
+<p><a href="https://youquhome.com" target="_blank" rel="noopener">https://youquhome.com</a><br>简介: 有趣网址</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="大数据"><a href="#大数据" class="headerlink" title="大数据"></a>大数据</h1><ol>
+<li><blockquote>
+<p><a href="http://hao.199it.com" target="_blank" rel="noopener">http://hao.199it.com</a><br>简介: 大数据导航</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="法律"><a href="#法律" class="headerlink" title="法律"></a>法律</h1><ol>
+<li><blockquote>
+<p><a href="http://www.daluu.net" target="_blank" rel="noopener">http://www.daluu.net</a><br>简介: 律师导航</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="打假"><a href="#打假" class="headerlink" title="打假"></a>打假</h1><ol>
+<li><blockquote>
+<p><a href="http://www.dajiadaohang.com/Index/yingjiguali.html" target="_blank" rel="noopener">http://www.dajiadaohang.com/Index/yingjiguali.html</a><br>简介: 打假导航, 政务</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><ol>
+<li><blockquote>
+<p><a href="http://www.up-6.com" target="_blank" rel="noopener">http://www.up-6.com</a><br>简介: 英语学习</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="财务"><a href="#财务" class="headerlink" title="财务"></a>财务</h1><ol>
+<li><blockquote>
+<p><a href="http://ck360.youshang.com" target="_blank" rel="noopener">http://ck360.youshang.com</a><br>简介: 财务税务</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="自媒体"><a href="#自媒体" class="headerlink" title="自媒体"></a>自媒体</h1><ol>
+<li><blockquote>
+<p><a href="https://www.zhuanglo.cn" target="_blank" rel="noopener">https://www.zhuanglo.cn</a><br>简介: 自媒体</p>
+</blockquote>
+</li>
+</ol>
+<h1 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h1><ol>
+<li><blockquote>
+<p><a href="http://www.a-hospital.com" target="_blank" rel="noopener">http://www.a-hospital.com</a><br>简介: 医学百科</p>
+</blockquote>
+</li>
+</ol>
 ]]></content>
       
-        
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> Theme-material </tag>
-            
-        </tags>
         
     </entry>
     
